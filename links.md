@@ -12,5 +12,9 @@ This video provides a clear explanation of the fundamental concepts of regex. It
 This video explains public and private keys in everyday language. It also uses relatable analogies to simplify the difference between asymmetric and symmetric encryption.
 * [Zero Trust Security](https://www.youtube.com/watch?v=FCWl-1Q-GIQ) ---
 This video captures the key points of the Zero Trust Security model. It introduces four pillars of Zero Trust: Machine Identity, Human Identity, Machine-to-Machine Communication, and Human-to-Machine Communication. This type of approach helps make sure everything stays secure.
+* [FAT32 vs exFAT vs NTFS - Windows File Systems](https://www.youtube.com/watch?v=bYjQakUxeVY&ab_channel=PowerCertAnimatedVideos) ---
+This video provides a clear overview of three major file systems: FAT32, exFAT, and NTFS. It explains their compatibility, limitations, and unique features. It's an excellent video for anyone who wants to know more about file systems in operating systems.
+* [Linux - Tarballs, Archive and Compress Folders (tar)](https://www.youtube.com/watch?v=l0yqs8t6ywo&ab_channel=ElitheComputerGuy) ---
+This video explains how to work with tarballs in Linux, which are similar to zips in Windows. It demonstrates the process of creating an archive, compressing, and listing its items. This video also covers how to extract the information in tarballs, making it a valuable guide for Linux users.
 <br>
 <hr>
