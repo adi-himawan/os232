@@ -1,6 +1,18 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W04 20 L01 SCELE related
+ZCZC W04 100 L02 CLASSROOM related
+ZCZC W04 15 L03 GitHub and git related
+ZCZC W04 60 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W04 120 L09 Weekly Assignments
+ZCZC W04 20 L22 Linux CLI including tar
+ZCZC W04 10 L25 C-language including Make
+ZCZC W04 60 L32 YouTube: watching OS related topics, etc.
+ZCZC W04 10 L41 TXT/mylog.txt related
+ZCZC W04 30 L43 TXT/myrank.txt related, including peer review
+ZCZC W04 35 L62 Backup Virtual Debian Guest
+ZCZC W04 60 L80 Watching: Netflix
 ZCZC W03 10 L01 SCELE related
 ZCZC W03 200 L02 CLASSROOM/ZOOM meetings related
 ZCZC W03 20 L03 GitHub and git related
