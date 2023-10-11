@@ -20,5 +20,9 @@ This video explains how to work with tarballs in Linux, which are similar to zip
 This video digs into how computers handle their memory, with a particular focus on something called paging. It does a great job of using pictures and practical examples to illustrate the significance of paging in managing processes.
 * [Main Memory Management [by OS]](https://www.youtube.com/watch?v=Ag4p5yCqte8&ab_channel=SolvingSkills) --- 
 This video outlines how the operating system handles main memory, emphasizing the difference between logical (program's perspective) and physical addresses (actual memory location). It also introduces memory management techniques like swapping and types of program allocation.
+* [Page Replacement in OS](https://www.scaler.com/topics/operating-system/page-replacement-algorithm/) ---
+This article introduces the concept of page replacement in operating systems, which is crucial for managing virtual memory. It provides explanations and practical examples for various algorithms like FIFO, LRU, LIFO, and Optimal Algorithm, all designed to minimize page faults.
+* [Non-Uniform Memory Access (NUMA)](https://www.techtarget.com/whatis/definition/NUMA-non-uniform-memory-access) ---
+This article explains the concept of Non-Uniform Memory Access (NUMA) in operating systems. NUMA is used in multiprocessing systems to allow microprocessors to share memory locally, aiming to enhance performance and scalability. It describes how NUMA works while also highlighting its advantages and disadvantages.
 <br>
 <hr>
