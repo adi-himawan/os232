@@ -24,5 +24,9 @@ This video outlines how the operating system handles main memory, emphasizing th
 This article introduces the concept of page replacement in operating systems, which is crucial for managing virtual memory. It provides explanations and practical examples for various algorithms like FIFO, LRU, LIFO, and Optimal Algorithm, all designed to minimize page faults.
 * [Non-Uniform Memory Access (NUMA)](https://www.techtarget.com/whatis/definition/NUMA-non-uniform-memory-access) ---
 This article explains the concept of Non-Uniform Memory Access (NUMA) in operating systems. NUMA is used in multiprocessing systems to allow microprocessors to share memory locally, aiming to enhance performance and scalability. It describes how NUMA works while also highlighting its advantages and disadvantages.
+* [Inter Process Communication (IPC)](https://www.scaler.com/topics/operating-system/inter-process-communication-in-os/) ---
+This article offers a thorough exploration of Inter Process Communication (IPC) in operating systems, detailing how it enables multiple processes to exchange information and coordinate activities. It introduces various IPC methods such as pipes, shared memory, message passing, and message queues. It also underscores the significance of synchronization techniques for maintaining data integrity within IPC.
+* [Threads And Concurrency](https://www.omscs-notes.com/operating-systems/threads-and-concurrency/) ---
+This article dives into threads and how they work in operating systems. It explains the difference between processes and threads and discusses the advantages of using multiple threads in a program. It also covers tools like mutexes to ensure threads work together smoothly.
 <br>
 <hr>
