@@ -28,5 +28,9 @@ This article explains the concept of Non-Uniform Memory Access (NUMA) in operati
 This article offers a thorough exploration of Inter Process Communication (IPC) in operating systems, detailing how it enables multiple processes to exchange information and coordinate activities. It introduces various IPC methods such as pipes, shared memory, message passing, and message queues. It also underscores the significance of synchronization techniques for maintaining data integrity within IPC.
 * [Threads And Concurrency](https://www.omscs-notes.com/operating-systems/threads-and-concurrency/) ---
 This article dives into threads and how they work in operating systems. It explains the difference between processes and threads and discusses the advantages of using multiple threads in a program. It also covers tools like mutexes to ensure threads work together smoothly.
+* [Introduction to Semaphore in Operating Systems (OS)](https://www.javatpoint.com/os-semaphore-introduction) ---
+This article comprehensively explains the concept of semaphores in operating systems. It covers the definition of semaphores and how to solve synchronization problems using semaphores.
+* [Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/) ---
+This article discusses how a deadlock happens when a set of processes is blocked because each process holds a resource and waits for another. It also delves into various methods for handling deadlock, including prevention, avoidance, and recovery.
 <br>
 <hr>
