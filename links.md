@@ -32,5 +32,9 @@ This article dives into threads and how they work in operating systems. It expla
 This article comprehensively explains the concept of semaphores in operating systems. It covers the definition of semaphores and how to solve synchronization problems using semaphores.
 * [Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/) ---
 This article discusses how a deadlock happens when a set of processes is blocked because each process holds a resource and waits for another. It also delves into various methods for handling deadlock, including prevention, avoidance, and recovery.
+* [Preemptive and Non-Preemptive Scheduling](https://www.geeksforgeeks.org/preemptive-and-non-preemptive-scheduling/) ---
+This article explains the concepts of preemptive and non-preemptive scheduling in operating systems. Preemptive scheduling interrupts a process during execution, allocating resources for a limited time, while non-preemptive scheduling waits for a process to complete its CPU burst time. It also details their advantages, disadvantages, and key differences.
+* [What is Round Robin Scheduling in OS?](https://www.scaler.com/topics/round-robin-scheduling-in-os/) ---
+This article provides a comprehensive overview of the Round Robin scheduling algorithm. It explains the algorithm's preemptive nature, cyclic execution of processes, and its significance in ensuring fair CPU allocation. Furthermore, it includes a practical C++ implementation to enhance understanding.
 <br>
 <hr>
